@@ -3,9 +3,7 @@
 ​​
 ​​​​​​​​​​<img align="right" alt="GIF" style="width: 60%; height: auto;" src="https://img-blog.csdnimg.cn/6457d2adace04ae784f9b05a0e2bb4b2.gif" />
 
-<br />
-<br />
-<br />
+
 <br />
 <br />
 <br />
